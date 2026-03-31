@@ -1,4 +1,4 @@
-const extensionName = "bazi-gacha-array-test";
+const extensionName = "bazi-gacha-array";
 const extensionFolderPath = `scripts/extensions/third-party/${extensionName}`;
 
 if (typeof marked === 'undefined') {
